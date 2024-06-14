@@ -80,7 +80,7 @@ void loop() {
 
     sendSensorData(roundedPercentage);
 
-    delay(900000); 
+    delay(3600000);
     
 
   } else {
